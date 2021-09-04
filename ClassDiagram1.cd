@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="audioKP.ChildCombine">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACJAACAAAACgAQACAAAAgAAQAEAAgCEZAAA=</HashCode>
+      <FileName>ChildCombine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="audioKP.ChildResample">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEAAAEAAACBAABAEAAjiAAACAAAAgAAQIECAAQABAAA=</HashCode>
+      <FileName>ChildResample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="audioKP.ChildTrim">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAJAAAGAAABBEAACgAAACACAAgAARAkCAACANAiA=</HashCode>
+      <FileName>ChildTrim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="audioKP.Editor">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAIAAQAAAAAAAAIAAAAABAAAAAAAAAAACAAABAAA=</HashCode>
+      <FileName>Editor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="audioKP.Main">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>K4QQEqAQFOTABgBIMBCwwQAKIEIsHAhX4ECAAChMAAQ=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="audioKP.Program" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="audioKP.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AABAAAAGAAAAACAAAAABEAAAAYAAAAAQIAARAAAABKw=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="audioKP.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
